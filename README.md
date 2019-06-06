@@ -1,6 +1,25 @@
 # Intermediate Natural Language Processing:
 ## Real World Applications of Word Embeddings
 
+### Notebook Setup 
+
+There are two options for Notebook demonstrations:
+1. Running the hosted notebook on [Kaggle Kernel](LINK).
+2. [Locally running the notebooks](#local-setup).
+
+The chief benefit of using the Kaggle Kernel is to enable everyone to quickly and efficiently use the same environment. These notebooks are hosted on GPUs in the cloud and a similar set up can be made on Google. I chose Kaggle because they also host the datasets we will be using (as well as many more!), which makes it easy to quickly import them and get models going! 
+
+#### Local Setup
+
+1. Install [Python 3.6](https://www.python.org/downloads/) or greater.
+2. Install [Pipenv](https://docs.pipenv.org/en/latest/install/#installing-pipenv) via Brew.
+3. Clone this repo and navigate to your local directory where your cloned version of this repo resides. 
+4. In a terminal window, type the command `pipenv sync`. This will use the pipfile in this repo to create a virtual environment. 
+5. To activate the environment, type the command `pipenv shell`. Now we have a shell window that has the environment activated. 
+6. Navigate to the the notebooks directory (`cd notebooks`) and lad notebooks (`jupyter notebooks`). 
+
+Note: To deactivate the pipenv environment, type the command `exit`. 
+
 
 ### Schedule
  
