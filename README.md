@@ -60,4 +60,3 @@ We will discuss:
   + Hacking dynamic embeddings for other types of ordinal structure (grouping by reviews stars)
 
 #### Q&A / Break (Length: 10 min)
-
