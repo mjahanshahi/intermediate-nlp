@@ -8,11 +8,11 @@
 
 We will discuss:
 
-•	Complexity of natural language requires specific techniques:
-•	Language models are probability distributions over a sequence of words
-•	Key uses are in machine learning and unsupervised learning (search/IR and clustering/topic modeling)
-•	The intuition behind vector space modeling
-•	Description of some of the similarities and differences between different word embedding algorithms (word2vec, GloVe, PPMI)
+- Complexity of natural language requires specific techniques:
+- Language models are probability distributions over a sequence of words
+- Key uses are in machine learning and unsupervised learning (search/IR and clustering/topic modeling)
+- The intuition behind vector space modeling
+- Description of some of the similarities and differences between different word embedding algorithms (word2vec, GloVe, PPMI)
 
 #### Q&A / Break (Length: 10 min)
 
@@ -20,12 +20,12 @@ We will discuss:
 
 We will demonstrate (using a Notebook):
 
-•	Ease of using pretrained embeddings
-•	Design considerations in using pretrained models including: noise, sentiments, generalization
-•	Some specific examples using different models (occupy in Twitter / Wikipedia / Common Crawl)
-•	Limitations using pretrained models:
-  •	Inputs: Implications of design decisions made during preprocessing on casing / stopwords / frequently occurring phrases
-  •	Output: Goal to learn similarity (example of word similarity tests)
+- Ease of using pretrained embeddings
+- Design considerations in using pretrained models including: noise, sentiments, generalization
+- Some specific examples using different models (occupy in Twitter / Wikipedia / Common Crawl)
+- Limitations using pretrained models:
+ - Inputs: Implications of design decisions made during preprocessing on casing / stopwords / frequently occurring phrases
+ - Output: Goal to learn similarity (example of word similarity tests)
 
 #### Q&A / Break (Length: 10 min)
 
