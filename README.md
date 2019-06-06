@@ -24,8 +24,8 @@ We will demonstrate (using a Notebook):
 - Design considerations in using pretrained models including: noise, sentiments, generalization
 - Some specific examples using different models (occupy in Twitter / Wikipedia / Common Crawl)
 - Limitations using pretrained models:
- - Inputs: Implications of design decisions made during preprocessing on casing / stopwords / frequently occurring phrases
- - Output: Goal to learn similarity (example of word similarity tests)
+  + Inputs: Implications of design decisions made during preprocessing on casing / stopwords / frequently occurring phrases
+  + Output: Goal to learn similarity (example of word similarity tests)
 
 #### Q&A / Break (Length: 10 min)
 
@@ -33,13 +33,13 @@ We will demonstrate (using a Notebook):
 
 We will discuss:
 
-•	Optimizing for different outputs (semantic relations vs semantic similarity):
-•	Preprocessing for outputs
-•	Testing word embedding models (visual inspection, similarity pairs)
+-	Optimizing for different outputs (semantic relations vs semantic similarity):
+-	Preprocessing for outputs
+-	Testing word embedding models (visual inspection, similarity pairs)
 
 We will demonstrate:
 
-•	Training a custom embedding model using spaCy to preprocess and the Gensim and scikit-learn API to train models
+-	Training a custom embedding model using spaCy to preprocess and the Gensim and scikit-learn API to train models
 
 Note: Training an embedding can take many hours, so this notebook will focus on how to do it, and participants can continue to train or experiment in their own time.
 
@@ -49,15 +49,15 @@ Note: Training an embedding can take many hours, so this notebook will focus on 
 
 We will demonstrate:
 
-•	Using word embeddings as inputs to understand documents
-  •	Supervised Machine Learning including Document Classification
-  •	Unsupervised Models including Document Clustering
+-	Using word embeddings as inputs to understand documents
+  + Supervised Machine Learning including Document Classification
+  + Unsupervised Models including Document Clustering
   
 We will discuss:
 
-•	Using word embeddings to extract insights from texts
-  •	Static vs Dynamic Embeddings on a high level
-  •	Hacking dynamic embeddings for other types of ordinal structure (grouping by reviews stars)
+- Using word embeddings to extract insights from texts
+  + Static vs Dynamic Embeddings on a high level
+  + Hacking dynamic embeddings for other types of ordinal structure (grouping by reviews stars)
 
 #### Q&A / Break (Length: 10 min)
 
