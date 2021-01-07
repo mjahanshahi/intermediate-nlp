@@ -1,4 +1,7 @@
 # Selected References:
+## Embeddings
+- Ruder, Sebastian. "On word embeddings - Part 1". http://ruder.io/word-embeddings-1/, 2016.
+- Ruder, Sebastian. "On word embeddings - Part 3: The secret ingredients of word2vec". http://ruder.io/secret-word2vec/, 2016.
 
 ## Parameter Tuning
 - Hardt, Moritz. “Word Embedding: Explaining Their Properties.” Off the Convex Path, http://offconvex.github.io/2016/02/14/word-embeddings-2/.
